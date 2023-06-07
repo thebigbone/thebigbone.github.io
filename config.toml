@@ -1,0 +1,38 @@
+baseURL = 'https://hcrypt.net/'
+author = "hcrypt"
+languageCode = 'en-us'
+homepage = "https://hcrypt.net"
+theme = "paper"
+title = "Hcrypt"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+	github = "thebigbone"
+	avatar = "decimal@hcrypt.net"
+	name = "hcrypt"
+	bio = "computer nerd"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+    weight = 10
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 10
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/post"
+  [[menu.main]]
+    identifier = "thoughts"
+    name = "Thoughts"
+    url = "/thoughts"
