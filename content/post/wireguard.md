@@ -1,7 +1,7 @@
 ---
 title: "Self Host VPN"
 date: 2023-01-24T19:13:32+05:30
-draft: true
+draft: false
 ---
 
 ## Self hosting Wireguard VPN

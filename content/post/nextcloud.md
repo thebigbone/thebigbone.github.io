@@ -1,7 +1,7 @@
 ---
 title: "Nextcloud"
 date: 2022-12-07T19:16:00+05:30
-draft: true
+draft: false
 ---
 
 ## Yet another nextcloud installation guide
